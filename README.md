@@ -51,7 +51,7 @@ Specifying the context and requirements of a system
 
 
 
-
+![alt text](<Screenshot 2026-05-12 215825.png>)
 
 
 # CLASS DIAGRAM
@@ -68,7 +68,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-
+![alt text](<Screenshot 2026-05-12 215853.png>)
 
 # COMMUNICTION DIAGRAM:
 
@@ -107,7 +107,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-
+![alt text](<Screenshot 2026-05-13 111439.png>)
 
 
 # SEQUENCE DIAGRAM
@@ -128,7 +128,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-
+![alt text](<Screenshot 2026-05-12 215908.png>)
 
 
 
