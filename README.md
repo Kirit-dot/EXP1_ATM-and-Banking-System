@@ -75,9 +75,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
-
-
+![alt text](<WhatsApp Image 2026-05-13 at 19.58.09.jpeg>)
 # PACKAGE DIAGRAM:
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
@@ -88,7 +86,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-
+![alt text](<WhatsApp Image 2026-05-13 at 19.58.09-1.jpeg>)
 
 
 
