@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230139
+# Name: KIRIT LULLA
+# Date: 18-05-26
 
 
 # AIM:
